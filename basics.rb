@@ -1,5 +1,6 @@
+require 'rubygems'
 require 'Sinatra'
-require 'sinatra/reloader' if development?
+
 set :app_file, __FILE__
 
 get '/form' do
