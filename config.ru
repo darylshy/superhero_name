@@ -1,2 +1,2 @@
-require './index'
+require './supername'
 run Sinatra::Application
