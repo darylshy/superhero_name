@@ -1,7 +1,5 @@
 require 'rubygems'
 require 'sinatra'
-require 'bundler/setup'
-
 
 get '/index' do
   erb :index
