@@ -2,8 +2,8 @@ require 'rubygems'
 require 'Sinatra'
 
 
-get '/form' do
-  erb :form
+get '/' do
+  erb :index
 end
 
 
