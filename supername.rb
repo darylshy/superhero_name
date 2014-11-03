@@ -2,7 +2,7 @@ require 'rubygems'
 require 'Sinatra'
 
 
-get '/' do
+get '/index' do
   erb :index
 end
 
