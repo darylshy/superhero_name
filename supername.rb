@@ -1,5 +1,6 @@
 require 'rubygems'
 require 'Sinatra'
+require 'bundler/setup'
 
 
 get '/index' do
