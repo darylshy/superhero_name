@@ -1,2 +1,2 @@
-require './basics'
+require './index'
 run Sinatra::Application
