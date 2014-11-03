@@ -1,7 +1,6 @@
 require 'rubygems'
 require 'Sinatra'
 
-set :app_file, __FILE__
 
 get '/form' do
   erb :form
