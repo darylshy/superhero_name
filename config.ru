@@ -1,2 +1,2 @@
 require './basics'
-run Sinatra::Application
+run basics
