@@ -1,5 +1,8 @@
 require 'rubygems'
 require 'sinatra'
+require 'bundler/setup'
+require 'executable-hooks' 
+
 
 get '/index' do
   erb :index
