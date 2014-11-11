@@ -1,5 +1,5 @@
 require './supername'
-require './name.erb'
+require './views/name.erb'
 require 'sinatra'
 
 
